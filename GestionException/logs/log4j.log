@@ -1,1 +1,10 @@
 [INFO ] 2023-09-11 15:08:25.368 [main] Main - Lancement du programme
+[INFO ] 2023-09-11 15:13:24.570 [main] Main - Lancement du programme
+[INFO ] 2023-09-11 15:40:34.216 [main] Main - Lancement du programme
+[INFO ] 2023-09-11 15:40:49.570 [main] HorsIntervalle - La valeur saisie est hors intervalles!
+[INFO ] 2023-09-11 15:40:49.570 [main] Main - HorsIntervalle:HorsIntervalle
+[INFO ] 2023-09-11 15:47:13.710 [main] Main - Lancement du programme
+[INFO ] 2023-09-11 15:47:29.581 [main] HorsIntervalle - La valeur saisie est hors intervalles!
+[INFO ] 2023-09-11 15:47:29.582 [main] Main - HorsIntervalle:HorsIntervalle
+[INFO ] 2023-09-11 15:47:45.965 [main] PasNombre - La valeur saisie doit être un nombre!
+[INFO ] 2023-09-11 15:47:45.965 [main] Main - PasNombre:PasNombre
