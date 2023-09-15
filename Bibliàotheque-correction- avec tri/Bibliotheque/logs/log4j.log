@@ -1,0 +1,105 @@
+[WARN ] 2023-09-12 12:14:01.808 [main] Main - Début du prog!
+[WARN ] 2023-09-12 12:15:14.252 [main] Main - Début du prog!
+[WARN ] 2023-09-12 12:15:59.843 [main] Main - Début du prog!
+[WARN ] 2023-09-12 12:17:10.785 [main] Main - Début du prog!
+[WARN ] 2023-09-12 12:19:11.068 [main] Main - Début du prog!
+[WARN ] 2023-09-12 14:11:57.784 [main] Main - Début du prog!
+[WARN ] 2023-09-12 14:12:58.343 [main] Main - Début du prog!
+[WARN ] 2023-09-12 14:15:08.003 [main] Main - Début du prog!
+[WARN ] 2023-09-12 14:16:16.143 [main] Main - Début du prog!
+[WARN ] 2023-09-12 14:17:23.085 [main] Main - Début du prog!
+[WARN ] 2023-09-12 15:33:57.396 [main] Main - Début du prog!
+[INFO ] 2023-09-12 15:34:46.411 [main] Main - recherche:[2, 0, 0]
+[WARN ] 2023-09-12 15:35:28.203 [main] Main - Début du prog!
+[INFO ] 2023-09-12 15:36:23.321 [main] Main - recherche:[1, 0, 0]
+[WARN ] 2023-09-12 15:38:11.208 [main] Main - Début du prog!
+[INFO ] 2023-09-12 15:38:33.934 [main] Main - recherche:[0, 1]
+[WARN ] 2023-09-12 16:02:57.511 [main] Main - Début du prog!
+[INFO ] 2023-09-12 16:03:32.857 [main] Main - Résultat Recherche:[0, 0, 0]
+[WARN ] 2023-09-12 16:05:08.231 [main] Main - Début du prog!
+[WARN ] 2023-09-12 16:05:26.386 [main] Main - Début du prog!
+[INFO ] 2023-09-12 16:05:53.650 [main] Main - Résultat Recherche:[0, 1, 0]
+[INFO ] 2023-09-12 16:05:53.650 [main] Main - Livre{titre='aa', auteur='bb', editeur='cc'}
+[INFO ] 2023-09-12 16:05:53.650 [main] Main - Livre{titre='zz', auteur='bb', editeur='cc'}
+[INFO ] 2023-09-12 16:05:53.650 [main] Main - Livre{titre='aa', auteur='bb', editeur='cc'}
+[WARN ] 2023-09-12 16:12:35.382 [main] Main - Début du prog!
+[INFO ] 2023-09-12 16:12:55.292 [main] Main - Résultat Recherche:[0, 1]
+[INFO ] 2023-09-12 16:12:55.292 [main] Main - Livre{titre='aa', auteur='zz', editeur='ee'}
+[INFO ] 2023-09-12 16:12:55.292 [main] Main - Livre{titre='dd', auteur='ff', editeur='ee'}
+[WARN ] 2023-09-12 16:13:30.317 [main] Main - Début du prog!
+[INFO ] 2023-09-12 16:13:53.005 [main] Main - Résultat Recherche:[1, -1]
+[INFO ] 2023-09-12 16:13:53.005 [main] Main - Livre{titre='dd', auteur='ss', editeur='qq'}
+[WARN ] 2023-09-12 16:16:31.832 [main] Main - Début du prog!
+[INFO ] 2023-09-12 16:16:52.323 [main] Main - Résultat Recherche:[2, -1, -1]
+[INFO ] 2023-09-12 16:16:52.323 [main] Main - Livre{titre='ee', auteur='hh', editeur='mm'}
+[WARN ] 2023-09-12 16:18:37.817 [main] Main - Début du prog!
+[INFO ] 2023-09-12 16:19:11.338 [main] Main - Résultat Recherche:[0, -1, -1]
+[INFO ] 2023-09-12 16:19:11.338 [main] Main - Index:0 - Livre{titre='ee', auteur='rr', editeur='tt'}
+[WARN ] 2023-09-15 09:26:29.489 [main] Main - Début du prog!
+[INFO ] 2023-09-15 09:27:03.686 [main] Main - Résultat Recherche:[-1, -1, -1]
+[WARN ] 2023-09-15 09:32:55.426 [main] Main - Début du prog!
+[INFO ] 2023-09-15 09:33:17.692 [main] Main - Résultat Recherche:[2, -1, -1]
+[INFO ] 2023-09-15 09:33:17.693 [main] Main - Index:2 - Livre{titre='bb', auteur='vv', editeur='cc'}
+[WARN ] 2023-09-15 09:35:02.088 [main] Main - Début du prog!
+[WARN ] 2023-09-15 09:45:15.844 [main] Main - Début du prog!
+[INFO ] 2023-09-15 09:45:34.087 [main] Main - Résultat Recherche:[0, 2, -1]
+[INFO ] 2023-09-15 09:45:34.088 [main] Main - Index:0 - Livre{titre='aa', auteur='zz', editeur='hh'}
+[INFO ] 2023-09-15 09:45:34.088 [main] Main - Index:2 - Livre{titre='aa', auteur='aa', editeur='zz'}
+[WARN ] 2023-09-15 10:11:29.933 [main] Main - Début du prog!
+[INFO ] 2023-09-15 10:11:46.062 [main] Main - Résultat Recherche:[1, -1, -1]
+[INFO ] 2023-09-15 10:11:46.064 [main] Main - Index:1 - Livre{titre='aa', auteur='aa', editeur='aa'}
+[WARN ] 2023-09-15 10:14:38.192 [main] Main - Début du prog!
+[WARN ] 2023-09-15 10:15:39.681 [main] Main - Début du prog!
+[INFO ] 2023-09-15 10:15:53.857 [main] Main - Résultat Recherche:[2, -1, -1]
+[INFO ] 2023-09-15 10:15:53.859 [main] Main - Index:2 - Livre{titre='qq', auteur='qq', editeur='q'}
+[WARN ] 2023-09-15 14:00:45.097 [main] Main - Début du prog!
+[INFO ] 2023-09-15 14:01:18.114 [main] Main - Résultat Recherche:[2, -1, -1]
+[INFO ] 2023-09-15 14:01:18.115 [main] Main - Index:2 - Livre{titre='tt', auteur='yy', editeur='uu'}
+[INFO ] 2023-09-15 14:01:39.682 [main] Main - Résultat Recherche pour suppression:[2, -1, -1]
+[INFO ] 2023-09-15 14:01:39.683 [main] Main - Index:2 - Livre{titre='tt', auteur='yy', editeur='uu'}
+[WARN ] 2023-09-15 14:08:55.921 [main] Main - Début du prog!
+[INFO ] 2023-09-15 14:09:21.672 [main] Main - Résultat Recherche détail du livre:[1, -1, -1]
+[INFO ] 2023-09-15 14:09:21.673 [main] Main - Index:1 - Livre{titre='zz', auteur='ww', editeur='xx'}
+[INFO ] 2023-09-15 14:09:44.000 [main] Main - Résultat Recherche pour suppression:[2, -1, -1]
+[INFO ] 2023-09-15 14:09:44.001 [main] Main - Index:2 - Livre{titre='ss', auteur='dd', editeur='ff'}
+[INFO ] 2023-09-15 14:10:08.385 [main] Main - Résultat Recherche pour edition:[1, -1]
+[INFO ] 2023-09-15 14:10:08.386 [main] Main - Index:1 - Livre{titre='zz', auteur='ww', editeur='xx'}
+[WARN ] 2023-09-15 14:12:02.164 [main] Main - Début du prog!
+[INFO ] 2023-09-15 14:12:37.597 [main] Main - Résultat Recherche détail du livre:[1, -1, -1]
+[INFO ] 2023-09-15 14:12:37.598 [main] Main - Index:1 - Livre{titre='gigi', auteur='gg', editeur='hh'}
+[INFO ] 2023-09-15 14:12:51.357 [main] Main - Résultat Recherche pour suppression:[1, -1, -1]
+[INFO ] 2023-09-15 14:12:51.358 [main] Main - Index:1 - Livre{titre='gigi', auteur='gg', editeur='hh'}
+[INFO ] 2023-09-15 14:13:04.133 [main] Main - Résultat Recherche pour update:[1, -1]
+[INFO ] 2023-09-15 14:13:04.134 [main] Main - Index:1 - Livre{titre='sasa', auteur='dd', editeur='df'}
+[WARN ] 2023-09-15 14:14:32.430 [main] Main - Début du prog!
+[INFO ] 2023-09-15 14:14:48.451 [main] Main - Résultat Recherche détail du livre:[1, -1, -1]
+[INFO ] 2023-09-15 14:14:48.452 [main] Main - Index:1 - Livre{titre='qq', auteur='ss', editeur='dd'}
+[INFO ] 2023-09-15 14:14:57.355 [main] Main - Résultat Recherche pour suppression:[1, -1, -1]
+[INFO ] 2023-09-15 14:14:57.356 [main] Main - Index:1 - Livre{titre='qq', auteur='ss', editeur='dd'}
+[INFO ] 2023-09-15 14:15:29.603 [main] Main - Résultat Recherche pour update:[0, -1]
+[INFO ] 2023-09-15 14:15:29.604 [main] Main - Index:0 - Livre{titre='aa', auteur='zz', editeur='ee'}
+[WARN ] 2023-09-15 14:16:27.826 [main] Main - Début du prog!
+[INFO ] 2023-09-15 14:17:02.449 [main] Main - Résultat Recherche détail du livre:[-1, -1, -1]
+[WARN ] 2023-09-15 14:19:05.668 [main] Main - Début du prog!
+[WARN ] 2023-09-15 14:19:22.463 [main] Main - Début du prog!
+[WARN ] 2023-09-15 14:20:28.481 [main] Main - Début du prog!
+[WARN ] 2023-09-15 14:22:19.086 [main] Main - Début du prog!
+[INFO ] 2023-09-15 14:22:41.572 [main] Main - Résultat Recherche détail du livre:[-1, -1, -1]
+[INFO ] 2023-09-15 14:22:57.644 [main] Main - Résultat Recherche pour suppression:[-1, -1, -1]
+[INFO ] 2023-09-15 14:23:35.356 [main] Main - Résultat Recherche pour update:[-1, -1, -1]
+[WARN ] 2023-09-15 14:24:32.305 [main] Main - Début du prog!
+[INFO ] 2023-09-15 14:24:57.872 [main] Main - Résultat Recherche détail du livre:[1, -1, -1]
+[INFO ] 2023-09-15 14:24:57.873 [main] Main - Index:1 - Livre{titre='qq', auteur='ss', editeur='dd'}
+[INFO ] 2023-09-15 14:25:34.274 [main] Main - Résultat Recherche pour suppression:[1, -1, -1]
+[INFO ] 2023-09-15 14:25:34.275 [main] Main - Index:1 - Livre{titre='qq', auteur='ss', editeur='dd'}
+[INFO ] 2023-09-15 14:25:43.282 [main] Main - Résultat Recherche pour update:[1, -1]
+[INFO ] 2023-09-15 14:25:43.283 [main] Main - Index:1 - Livre{titre='ww', auteur='xx', editeur='cc'}
+[WARN ] 2023-09-15 14:37:57.196 [main] Main - Début du prog!
+[INFO ] 2023-09-15 14:38:30.070 [main] Main - Résultat Recherche détail du livre:[1, -1, -1]
+[INFO ] 2023-09-15 14:38:30.071 [main] Main - Index:1 - Livre{titre='aa', auteur='qq', editeur='ww'}
+[INFO ] 2023-09-15 14:38:37.118 [main] Main - Résultat Recherche pour suppression:[-1, -1, -1]
+[INFO ] 2023-09-15 14:38:44.549 [main] Main - Résultat Recherche pour update:[-1, -1, -1]
+[WARN ] 2023-09-15 14:46:14.284 [main] Main - Début du prog!
+[INFO ] 2023-09-15 14:47:26.157 [main] Main - Résultat Recherche détail du livre:[-1, -1, -1]
+[INFO ] 2023-09-15 14:47:49.924 [main] Main - Résultat Recherche pour suppression:[-1, -1, -1]
+[INFO ] 2023-09-15 14:48:00.179 [main] Main - Résultat Recherche pour update:[-1, -1, -1]
