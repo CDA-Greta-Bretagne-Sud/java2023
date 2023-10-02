@@ -114,12 +114,12 @@ public class ImageUtil {
 				{{0,0,255,255},{0,0,255,255},{0,0,255,255},{0,0,255,255}},
 				{{0,0,255,255},{0,0,255,255},{0,0,255,255},{0,0,255,255}}};
 
-		afficheImage(tab);
+		//afficheImage(tab);
 
 		int[][][] perruches = readImage("images/perruche.png");
-		/**afficheImage(perruches);
+		afficheImage(perruches);
 
-		writeImage(tab,"png","images/exemple.png");
+		/**	writeImage(tab,"png","images/exemple.png");
 		writeImage(perruches,"png","images/perruche_bis.png");*/
 	}
 
