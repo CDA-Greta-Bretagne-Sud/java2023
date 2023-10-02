@@ -1,0 +1,72 @@
+{
+  "Medias" : [ {
+    "identificateur" : "20231000000",
+    "Catégorie" : "DVD",
+    "Sous-catégorie" : "Film",
+    "Description" : "Pas mal!",
+    "numeroEmprunter" : 2,
+    "DateEmprunt" : "2023-10-02"
+  }, {
+    "identificateur" : "20231000000",
+    "Catégorie" : "Livre",
+    "Sous-catégorie" : "Roman",
+    "Description" : "Pas mal!",
+    "numeroEmprunter" : 2,
+    "DateEmprunt" : "2023-10-02"
+  }, {
+    "identificateur" : "20231000000",
+    "Catégorie" : "Jeux",
+    "Sous-catégorie" : "Société",
+    "Description" : "Pas mal!",
+    "numeroEmprunter" : 2,
+    "DateEmprunt" : "2023-10-02"
+  } ],
+  "Emprunteurs" : [ {
+    "Id" : 1,
+    "Nom" : "Rolland",
+    "Prénom" : "Julien",
+    "Date de naissance" : "09/02/2001",
+    "MediaEmprunter" : [ {
+      "identificateur" : "20231000000",
+      "Catégorie" : "DVD",
+      "Sous-catégorie" : "Film",
+      "Description" : "Pas mal!",
+      "numeroEmprunter" : 1,
+      "DateEmprunt" : "2023-10-02"
+    }, {
+      "identificateur" : "20231000000",
+      "Catégorie" : "DVD",
+      "Sous-catégorie" : "Film",
+      "Description" : "Pas mal!",
+      "numeroEmprunter" : 1,
+      "DateEmprunt" : "2023-10-02"
+    } ]
+  }, {
+    "Id" : 2,
+    "Nom" : "Duval",
+    "Prénom" : "Maurice",
+    "Date de naissance" : "09/1951",
+    "MediaEmprunter" : [ {
+      "identificateur" : "20231000000",
+      "Catégorie" : "Livre",
+      "Sous-catégorie" : "Roman",
+      "Description" : "Pas mal!",
+      "numeroEmprunter" : 2,
+      "DateEmprunt" : "2023-10-02"
+    }, {
+      "identificateur" : "20231000000",
+      "Catégorie" : "Jeux",
+      "Sous-catégorie" : "Société",
+      "Description" : "Pas mal!",
+      "numeroEmprunter" : 2,
+      "DateEmprunt" : "2023-10-02"
+    }, {
+      "identificateur" : "20231000000",
+      "Catégorie" : "DVD",
+      "Sous-catégorie" : "Film",
+      "Description" : "Pas mal!",
+      "numeroEmprunter" : 2,
+      "DateEmprunt" : "2023-10-02"
+    } ]
+  } ]
+}

@@ -1,0 +1,36 @@
+[ {
+  "id" : "2023-9-1",
+  "categorie" : "LIVRE",
+  "sous-categorie" : "ROMAN",
+  "description" : "Les Miserables",
+  "emprunteur" : 0,
+  "date-emprunt" : null
+}, {
+  "id" : "2023-9-2",
+  "categorie" : "LIVRE",
+  "sous-categorie" : "ROMAN",
+  "description" : "La Gloire de mon pere",
+  "emprunteur" : 0,
+  "date-emprunt" : null
+}, {
+  "id" : "2023-9-3",
+  "categorie" : "LIVRE",
+  "sous-categorie" : "ROMAN",
+  "description" : "Harry Potter : La pierre philosophale",
+  "emprunteur" : 2,
+  "date-emprunt" : "2/9/2023"
+}, {
+  "id" : "2023-9-4",
+  "categorie" : "DVD",
+  "sous-categorie" : "Aventure",
+  "description" : "Inception",
+  "emprunteur" : 1,
+  "date-emprunt" : "2/9/2023"
+}, {
+  "id" : "2023-9-5",
+  "categorie" : "DVD",
+  "sous-categorie" : "Aventure",
+  "description" : "Harry Potter : L'apprenti sorcier",
+  "emprunteur" : 3,
+  "date-emprunt" : "2/9/2023"
+} ]

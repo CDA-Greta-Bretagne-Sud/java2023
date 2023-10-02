@@ -1,0 +1,57 @@
+Media: identificateur=2023-9-1
+categorie=LIVRE- sousCategorie=ROMAN
+description=Les Miserables
+emprunteur=1
+dateEmprunt=2/9/2023
+-------------------------------------------------------------------
+
+Media: identificateur=2023-9-2
+categorie=LIVRE- sousCategorie=ROMAN
+description=La Gloire de mon pere
+emprunteur=0
+dateEmprunt=null
+-------------------------------------------------------------------
+
+Media: identificateur=2023-9-3
+categorie=LIVRE- sousCategorie=ROMAN
+description=Harry Potter : La pierre philosophale
+emprunteur=2
+dateEmprunt=2/9/2023
+-------------------------------------------------------------------
+
+Media: identificateur=2023-9-4
+categorie=DVD- sousCategorie=Aventure
+description=Inception
+emprunteur=1
+dateEmprunt=2/9/2023
+-------------------------------------------------------------------
+
+Media: identificateur=2023-9-5
+categorie=DVD- sousCategorie=Aventure
+description=Harry Potter : L'apprenti sorcier
+emprunteur=3
+dateEmprunt=2/9/2023
+-------------------------------------------------------------------
+
+Media: identificateur=2023-9-6
+categorie=xvcdvv- sousCategorie=vxcvxcv
+description=vxxcv
+emprunteur=0
+dateEmprunt=null
+-------------------------------------------------------------------
+
+Emprunteur numero=1- nom=LAFONT- prenom=Paul
+dateNaissance=31/10/1979
+mediaEmpruntes=[2023-9-4, 2023-9-1]
+------------------------------------------------------------------------------
+
+Emprunteur numero=2- nom=ABBE- prenom=Zoe
+dateNaissance=01/12/1985
+mediaEmpruntes=[2023-9-3]
+------------------------------------------------------------------------------
+
+Emprunteur numero=3- nom=ROUFAT- prenom=Martin
+dateNaissance=02/03/1965
+mediaEmpruntes=[2023-9-5]
+------------------------------------------------------------------------------
+

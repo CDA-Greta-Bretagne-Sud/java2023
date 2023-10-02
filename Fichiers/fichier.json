@@ -1,0 +1,12 @@
+{
+  "id" : 1,
+  "nom" : "Brigitte Macron",
+  "email" : "b.macron@free.fr",
+  "salaire" : 1800.5,
+  "fonction" : "on sait pas",
+  "address" : {
+    "adresse" : "3 rue Victor Hugo",
+    "CodePostal" : 56000,
+    "ville" : "Vannes"
+  }
+}

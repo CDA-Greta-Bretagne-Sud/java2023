@@ -1,0 +1,31 @@
+M;Les Misérables;Livre;Drame;Roman classique de Victor Hugo;1;true
+M;Star Wars: Un nouvel espoir;DVD;Science-fiction;Le premier film de la saga Star Wars;5;false
+M;The Dark Side of the Moon;CD;Rock;Album mythique de Pink Floyd;1;false
+M;2001, l'Odyssée de l'espace;DVD;Science-fiction;Chef-d'œuvre de Stanley Kubrick;0;false
+M;Orgueil et Préjugés;Livre;Romance;Roman classique de Jane Austen;0;true
+M;Abbey Road;CD;Rock;Album légendaire des Beatles;0;false
+M;Le Seigneur des Anneaux;Livre;Fantasy;Trilogie épique de J.R.R. Tolkien;0;false
+M;Inception;DVD;Science-fiction;Film de Christopher Nolan sur les rêves;0;false
+M;Le Parfum;Livre;Drame;Roman de Patrick Süskind sur un meurtrier avec un sens olfactif surdéveloppé;0;false
+M;Kind of Blue;CD;Jazz;Album emblématique de Miles Davis;0;true
+M;Matrix;DVD;Science-fiction;Film révolutionnaire sur une réalité simulée;1;false
+M;Crime et Châtiment;Livre;Drame;Roman classique de Fiodor Dostoïevski;1;true
+M;The Wall;CD;Rock;Un autre album phare de Pink Floyd;0;false
+M;La La Land;DVD;Romance;Film musical contemporain;0;false
+M;1984;Livre;Science-fiction;Roman dystopique de George Orwell;0;true
+M;Blackstar;CD;Rock;Dernier album de David Bowie;0;true
+M;Blade Runner;DVD;Science-fiction;Film culte basé sur le livre de Philip K. Dick;0;false
+M;Bel-Ami;Livre;Drame;Roman de Maupassant sur l'ascension sociale;0;false
+M;To Kill a Mockingbird;Livre;Drame;Roman classique d'Harper Lee;0;false
+M;Interstellar;DVD;Science-fiction;Un voyage à travers les trous noirs par Christopher Nolan;0;false
+M;Disney World;Livre;Enfants;Micket et Donald;0;false
+E;1;Alice;Dumont;15/03/1992;
+E;2;Charles;Martin;22/07/1985;
+E;3;Brigitte;Leroy;05/11/1978;
+E;4;David;Gautier;18/02/2001;Orgueil et Préjugés
+E;5;Elise;Moreau;30/09/1999;Matrix
+E;10;Chevigner;Luc;21/02/2025;Le Seigneur des Anneaux,Blackstar
+E;10;Nico;Nguyen;21/03/2889;1984
+E;10;test;Test;21/12/1222;Kind of Blue
+E;10;pascalou;toutout;02/20/12223;
+E;10;azefaezf;testetst;20/02/2000;
